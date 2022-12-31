@@ -1,2 +1,3 @@
-# Tinkoff-Eternal-Contest
-Tinkoff Eternal Contest
+# Тинькофф Вечный Контест
+
+Решения задач по Контесту.
